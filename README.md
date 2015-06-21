@@ -4,8 +4,6 @@ Esse é meu modo de configurar o **Sublime Text**.
 
 -----
 
-[TOC]
-
 ### Plugin inicial e de layout:
 
 - [Package Control](https://packagecontrol.io/installation)
