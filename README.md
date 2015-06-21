@@ -4,7 +4,7 @@ Esse é meu modo de configurar o **Sublime Text**.
 
 -----
 
-### Plugin inicial e de layout:
+## Plugin inicial e de layout:
 
 - [Package Control](https://packagecontrol.io/installation)
 - [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
